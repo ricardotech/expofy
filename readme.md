@@ -51,7 +51,7 @@ npx expo start
 1. Clone o repositório do projeto:
 
 ```bash
-git clone https://github.com/seu-usuario/expofy.git
+git clone https://github.com/ricardofsdomene/expofy
 ```
 
 2. Navegue para o diretório do projeto e instale as dependências:
