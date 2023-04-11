@@ -70,3 +70,25 @@ expo start
 4. Abra o seu emulador Android ou iOS.
 5. Clique no botão `Run on Android device/emulator` ou `Run on iOS simulator` no seu navegador ou no terminal.
 6. O aplicativo Expofy será aberto no seu emulador.
+
+## Telas do aplicativo
+
+O Expofy possui três telas principais: a tela inicial (com os resultados de pesquisa), o carrinho de compras e a tela de perfil do usuário.
+
+### Tela inicial (resultados de pesquisa)
+
+![Tela inicial](https://user-images.githubusercontent.com/100056112/231034389-f5c7e44a-a8be-4c53-ad6e-d7543c3fc29f.png)
+
+A tela inicial é onde os usuários podem visualizar os resultados da pesquisa de produtos. Nesta tela, os produtos são exibidos em uma lista com uma imagem, título, preço e avaliação. Os usuários também podem aplicar filtros de pesquisa para refinar os resultados.
+
+### Carrinho de compras
+
+![Carrinho de compras](https://user-images.githubusercontent.com/100056112/231034483-4e1cb4b3-d248-4466-8cd2-1e1ba655c2d9.png)
+
+A tela do carrinho de compras é onde os usuários podem visualizar os produtos que adicionaram ao carrinho e finalizar a compra. Nesta tela, os usuários podem ver uma lista dos produtos no carrinho, o preço total e as opções de pagamento. Os usuários também podem adicionar ou remover itens do carrinho.
+
+### Tela de perfil do usuário
+
+![Tela de perfil do usuário](https://user-images.githubusercontent.com/100056112/231034515-dfc70b04-f62f-4b34-86e2-3c6f99dfc034.png)
+
+A tela de perfil do usuário é onde os usuários podem visualizar e editar as suas informações pessoais, como nome, e-mail e endereço de entrega. Nesta tela, os usuários também podem visualizar o histórico de pedidos e acompanhar o status de entregas.
