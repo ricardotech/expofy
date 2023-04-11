@@ -39,7 +39,7 @@ npm install # ou yarn install
 4. Inicie o servidor Expo:
 
 ```bash
-expo start
+npx expo start
 ```
 
 5. Abra o Expo Go no seu dispositivo e faça o login (se ainda não estiver logado).
