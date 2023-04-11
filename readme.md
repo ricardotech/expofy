@@ -83,7 +83,7 @@ A tela inicial é onde os usuários podem visualizar os resultados da pesquisa d
 
 ### Carrinho de compras
 
-<img src="https://user-images.githubusercontent.com/100056112/231034389-f5c7e44a-a8be-4c53-ad6e-d7543c3fc29f.png" height="480" width="225">
+<img src="https://user-images.githubusercontent.com/100056112/231035464-789158c6-d6da-4cec-948d-de801c28ed05.png" height="480" width="225">
 
 A tela do carrinho de compras é onde os usuários podem visualizar os produtos que adicionaram ao carrinho e finalizar a compra. Nesta tela, os usuários podem ver uma lista dos produtos no carrinho, o preço total e as opções de pagamento. Os usuários também podem adicionar ou remover itens do carrinho.
 
