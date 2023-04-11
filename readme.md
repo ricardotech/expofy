@@ -77,18 +77,18 @@ O Expofy possui três telas principais: a tela inicial (com os resultados de pes
 
 ### Tela inicial (resultados de pesquisa)
 
-<img src="https://user-images.githubusercontent.com/100056112/231034389-f5c7e44a-a8be-4c53-ad6e-d7543c3fc29f.png" width="400" height="225">
+<img src="https://user-images.githubusercontent.com/100056112/231034389-f5c7e44a-a8be-4c53-ad6e-d7543c3fc29f.png" height="400" width="225">
 
 A tela inicial é onde os usuários podem visualizar os resultados da pesquisa de produtos. Nesta tela, os produtos são exibidos em uma lista com uma imagem, título, preço e avaliação. Os usuários também podem aplicar filtros de pesquisa para refinar os resultados.
 
 ### Carrinho de compras
 
-<img src="[https://user-images.githubusercontent.com/100056112/231034389-f5c7e44a-a8be-4c53-ad6e-d7543c3fc29f.png](https://user-images.githubusercontent.com/100056112/231034483-4e1cb4b3-d248-4466-8cd2-1e1ba655c2d9.png)" width="400" height="225">
+<img src="https://user-images.githubusercontent.com/100056112/231034389-f5c7e44a-a8be-4c53-ad6e-d7543c3fc29f.png" height="400" width="225">
 
 A tela do carrinho de compras é onde os usuários podem visualizar os produtos que adicionaram ao carrinho e finalizar a compra. Nesta tela, os usuários podem ver uma lista dos produtos no carrinho, o preço total e as opções de pagamento. Os usuários também podem adicionar ou remover itens do carrinho.
 
 ### Tela de perfil do usuário
 
-<img src="https://user-images.githubusercontent.com/100056112/231034515-dfc70b04-f62f-4b34-86e2-3c6f99dfc034.png" width="400" height="225">
+<img src="https://user-images.githubusercontent.com/100056112/231034515-dfc70b04-f62f-4b34-86e2-3c6f99dfc034.png" height="400" width="225">
 
 A tela de perfil do usuário é onde os usuários podem visualizar e editar as suas informações pessoais, como nome, e-mail e endereço de entrega. Nesta tela, os usuários também podem visualizar o histórico de pedidos e acompanhar o status de entregas.
