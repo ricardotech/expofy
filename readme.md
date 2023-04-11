@@ -64,7 +64,7 @@ npm install # ou yarn install
 3. Inicie o servidor Expo:
 
 ```bash
-expo start
+npx expo start
 ```
 
 4. Abra o seu emulador Android ou iOS.
