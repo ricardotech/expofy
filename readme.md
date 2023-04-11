@@ -75,7 +75,7 @@ expo start
 
 O Expofy possui três telas principais: a tela inicial (com os resultados de pesquisa), o carrinho de compras e a tela de perfil do usuário.
 
-### Tela inicial (resultados de pesquisa)
+### Tela inicial
 
 <img src="https://user-images.githubusercontent.com/100056112/231034389-f5c7e44a-a8be-4c53-ad6e-d7543c3fc29f.png" height="480" width="225">
 
