@@ -69,15 +69,14 @@ export default function Home() {
           alignItems: "center",
         }}
       >
-        <Feather name="github" color="#AAA" size={36} />
-        <View style={{ marginLeft: 10 }}>
+        <View>
           <Text
             style={{
               color: "#FFF",
               fontSize: 24,
             }}
           >
-            @ricardofsdomene/expofy
+            expofy
           </Text>
           <Text
             style={{
@@ -85,7 +84,7 @@ export default function Home() {
               fontSize: 16,
             }}
           >
-            Disponível no Github ☝️
+            Seja muito bem-vindo(a)!
           </Text>
         </View>
       </View>
