@@ -77,7 +77,7 @@ O Expofy possui três telas principais: a tela inicial (com os resultados de pes
 
 ### Tela inicial
 
-<img src="https://user-images.githubusercontent.com/100056112/231034389-f5c7e44a-a8be-4c53-ad6e-d7543c3fc29f.png" height="480" width="225">
+<img src="https://user-images.githubusercontent.com/100056112/232049003-ecd582a5-872f-4ddd-a177-75f8079adc55.png" height="480" width="225">
 
 A tela inicial é onde os usuários podem visualizar os resultados da pesquisa de produtos. Nesta tela, os produtos são exibidos em uma lista com uma imagem, título, preço e avaliação. Os usuários também podem aplicar filtros de pesquisa para refinar os resultados.
 
